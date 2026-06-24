@@ -55,11 +55,7 @@ It helps analyze business performance using KPIs, variance analysis, Pivot Table
 
 ## 📷 Dashboard Preview
 
-> Upload **Dashboard.png** to this repository and then replace the line below with:
-
-```markdown
-![Dashboard](Dashboard.png)
-```
+![Budget vs Actual Dashboard](Screenshot%202026-06-24%20182809.png)
 
 ---
 
